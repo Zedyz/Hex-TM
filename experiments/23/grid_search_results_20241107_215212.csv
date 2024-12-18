@@ -1,0 +1,2 @@
+clauses,T,s,epochs,train_accuracy,test_accuracy,train_precision,test_precision,train_recall,test_recall,train_f1_score,test_f1_score
+10000,8000,10,100,1.0,0.9948325126147486,1.0,0.9948336691235253,1.0,0.9948325126147486,1.0,0.9948324694089911
